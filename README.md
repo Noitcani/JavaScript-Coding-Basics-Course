@@ -5,4 +5,4 @@
 - Language used: javascript + basic HTML/CSS
 
 ### Final Project: BlackJack Game
-[Deployment](https://noitcani.github.io/JavaScript-Coding-Basics-Course/)
+- [Deployment](https://noitcani.github.io/JavaScript-Coding-Basics-Course/)
